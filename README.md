@@ -33,7 +33,7 @@ This repository contains:
 
 ## Models Supported
 
-- GPT-5.3 Codex
+- GPT-5.3 BlackRoad OS
 - GPT-5.2
 - GPT-5.1
 - GPT-4.1
